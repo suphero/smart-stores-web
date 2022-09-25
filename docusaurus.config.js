@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Smart Stores',
-  tagline: 'Dinosaurs are super cool',
+  tagline: 'Stores are smart with us',
   url: 'https://smart-stores.net',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -49,6 +49,12 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+        gtag: {
+          trackingID: 'G-PLT4P5NQGD',
+        },
+        googleAnalytics: {
+          trackingID: 'UA-236891347-2',
+        }
       }),
     ],
   ],
@@ -67,7 +73,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Smart Forecast',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {

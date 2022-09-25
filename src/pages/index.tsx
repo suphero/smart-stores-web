@@ -18,7 +18,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="https://apps.shopify.com/partners/stores-are-smart">
-            View Shopify Apps
+            View Apps
           </Link>
         </div>
       </div>
