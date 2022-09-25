@@ -24,7 +24,7 @@ We collect personal information directly from the relevant individual, through y
 
 ## How Do We Use Your Personal Information?
 
-We use the personal information we collect from you and your customers in order to provide the Service and operate the App. Additionally, we use this personal information to: Communicate with you; Optimize or improve the App; and Provide you with information about our products or services.
+We use the personal information we collect from you and your customers to provide the Service and operate the App. Additionally, we use this personal information to: Communicate with you; Optimize or improve the App; and Provide you with information about our products or services.
 
 ## Sharing Your Personal Information
 
@@ -32,10 +32,10 @@ Finally, we may also share your Personal Information to comply with applicable l
 
 Your Rights If you are a European resident, you have the right to access the personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
 
-Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
+Additionally, if you are a European resident we note that we are processing your information to fulfill contracts we might have with you (for example, if you make an order through the Site) or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
 
 Data Retention When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
 
-Changes We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal, or regulatory reasons.
+Changes We may update this privacy policy from time to time to reflect, for example, changes to our practices or for other operational, legal, or regulatory reasons.
 
 Contact Us For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at stores.are.smart@gmail.com.
