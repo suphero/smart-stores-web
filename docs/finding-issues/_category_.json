@@ -1,0 +1,8 @@
+{
+  "label": "Finding Issues",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Find the issues in your store."
+  }
+}
