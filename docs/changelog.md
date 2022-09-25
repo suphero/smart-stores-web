@@ -26,6 +26,6 @@ New functionalities:
 - [Short Description Products](./finding-issues/short-description-products)
 - [Long Description Products](./finding-issues/long-description-products)
 
-## 2022.08.19
+## 2022.08.09
 
 App deployed to the [App Store](https://apps.shopify.com/smart-forecast).
