@@ -10,9 +10,11 @@ Smart Forecast "the App” provides forecasting and optimization of the products
 
 When you install the App, we are automatically able to access certain types of information from your Shopify account:
 
+- DigitalOcean - the App is served on DigitalOcean.
 - MongoDB Atlas - the App uses MongoDB Atlas to store information.
 - Mixpanel, Inc. - the App uses Mixpanel to analyze user data.
 - Sentry - the App uses Sentry to analyze errors related to user operations.
+- LogTail - the App uses LogTail to analyze application logs.
 
 Additionally, we collect the following types of personal information from you once you have installed the App:
 
