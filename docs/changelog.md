@@ -4,6 +4,10 @@ sidebar_position: 8
 
 # Changelog
 
+## 2022.09.29
+
+Website has been added to the application as a documentation reference. Added a few "Learn More" buttons.
+
 ## 2022.09.25
 
 [Webpage](https://smart-stores.net) became online.
