@@ -92,6 +92,10 @@ const config = {
                 href: 'https://www.instagram.com/SmartStoresApps',
               },
               {
+                label: 'Twitter',
+                href: 'https://twitter.com/SmartStoresApps',
+              },
+              {
                 label: 'Youtube',
                 href: 'https://www.youtube.com/channel/UCKjTz4zWKvOOSxWJ-c8nurQ',
               },
