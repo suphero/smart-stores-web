@@ -4,6 +4,18 @@ sidebar_position: 8
 
 # Changelog
 
+## 2022.10.03
+
+New functionalities:
+
+- [Low Discount Products](./finding-issues/low-discount-products)
+- [High Discount Products](./finding-issues/high-discount-products)
+- [Update Product Compare Price](./fixing-issues/update-product-compare-price)
+
+Updated functionalities:
+
+- [Price Management](./configuration/price-management)
+
 ## 2022.09.29
 
 Website has been added to the application as a documentation reference. Added a few "Learn More" buttons.
@@ -29,6 +41,8 @@ New functionalities:
 - [Long Title Products](./finding-issues/long-title-products)
 - [Short Description Products](./finding-issues/short-description-products)
 - [Long Description Products](./finding-issues/long-description-products)
+- [Update Product Title](./fixing-issues/update-product-title)
+- [Update Product Description](./fixing-issues/update-product-description)
 
 ## 2022.08.09
 
