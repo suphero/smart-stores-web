@@ -21,6 +21,8 @@ With the free version of the app you can find and fix all of these issues:
 - [Long Title Products](./finding-issues/long-title-products)
 - [Short Description Products](./finding-issues/short-description-products)
 - [Long Description Products](./finding-issues/long-description-products)
+- [Low Discount Products](./finding-issues/low-discount-products)
+- [High Discount Products](./finding-issues/high-discount-products)
 
 ## Full Plan
 
