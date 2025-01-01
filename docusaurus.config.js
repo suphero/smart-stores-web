@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Smart Stores',
   tagline: 'Stores are smart with us',
-  url: 'https://smart-stores.net',
+  url: 'https://smart-stores.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

@@ -4,6 +4,10 @@ sidebar_position: 8
 
 # Changelog
 
+## 2024.01.01
+
+Rewritten the whole app. App is moving to [Contabo](https://contabo.com).
+
 ## 2022.10.03
 
 New functionalities:
@@ -22,7 +26,7 @@ Website has been added to the application as a documentation reference. Added a 
 
 ## 2022.09.25
 
-[Webpage](https://smart-stores.net) became online.
+[Webpage](https://smart-stores.netlify.app) became online.
 
 ## 2022.09.17
 
