@@ -16,7 +16,7 @@ Use the `Refresh` button in the [Bulk Settings](./configuration/bulk).
 
 ## Why am I getting the "Please wait for a while to complete the setup." message?
 
-The app is collecting your data such as Products, and Orders. It should not take long. If it didn't complete for a long time, please [contact us](mailto:admin@smart-stores.net).
+The app is collecting your data such as Products, and Orders. It should not take long. If it didn't complete for a long time, please [contact us](mailto:harunsokullu@gmail.com).
 
 ## How can I test your app?
 

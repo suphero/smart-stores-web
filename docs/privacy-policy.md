@@ -37,4 +37,4 @@ Data Retention When you place an order through the Site, we will maintain your O
 
 Changes We may update this privacy policy from time to time to reflect, for example, changes to our practices or for other operational, legal, or regulatory reasons.
 
-Contact Us For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at admin@smart-stores.net.
+Contact Us For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at harunsokullu@gmail.com.
